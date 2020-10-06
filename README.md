@@ -6,7 +6,7 @@
 
 ## Olá! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px">
 
-Meu nome é Vagnerlandio Nunes, 26, Técnico em Desenvolvimento de Sistemas e apaixonado por Tecnologia.
+Meu nome é Vagnerlandio Nunes, 26, Desenvolvimento Mobile Multiplataforma e apaixonado por Tecnologia.
 
 - :office_worker: React Native Developer na **Alvo System**
 - :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, entre outras.
