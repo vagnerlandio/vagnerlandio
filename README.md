@@ -46,7 +46,6 @@ Meu nome é Vagnerlandio Nunes, 28, Desenvolvedor Mobile Multiplataforma e apaix
   ![](https://www.vectorlogo.zone/logos/pugjs/pugjs-icon.svg)
   ![](https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg)
   ![](https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg)
-  ![](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)
   ![](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
   ![](https://www.vectorlogo.zone/logos/jamstack/jamstack-icon.svg)
   ![](https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg)
