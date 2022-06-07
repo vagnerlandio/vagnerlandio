@@ -9,7 +9,7 @@
 
 Meu nome é Vagnerlandio Nunes, 28, Desenvolvedor Mobile Multiplataforma e apaixonado por Tecnologia.
 
-- :office_worker: Full-time React Native Developer na **Alvo System**
+- :office_worker: Full-time React Native Developer na **Value4u**
 - :books: Estudando React.js e TypeScript. :heart:
 
 > :octocat: [vagnerlandio.github.io/](https://vagnerlandio.github.io/)
