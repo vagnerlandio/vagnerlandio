@@ -1,18 +1,15 @@
-# :man_technologist: Vagnerlandio Nunes
+# 👨🏽‍💻 Vagnerlandio Nunes
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vagnerlandio)](https://github.com/vagnerlandio)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/vagnerlandio)](https://t.me/vagnerlandio)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vagnerlandio@gmail.com)](mailto:vagnerlandio@gmail.com)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=vagnerlandio)
 
-## Olá! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px">
+## Hi! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px">
 
-Meu nome é Vagnerlandio Nunes, 28, Desenvolvedor Mobile Multiplataforma e apaixonado por Tecnologia.
+👨🏽‍💻 Vagnerlandio Nunes, 29, 📱 Cross-Platform Mobile Developer with a focus on ⚛️ React Native while actively enhancing my skills in Kotlin and Android development.
 
-- :office_worker: React Native Developer
-- :books: Kotlin && Android. :heart:
-
-> :octocat: [vagnerlandio.github.io/](https://vagnerlandio.github.io/)
+:octocat: [vagnerlandio.github.io/](https://vagnerlandio.github.io/)
 
 ---
   
