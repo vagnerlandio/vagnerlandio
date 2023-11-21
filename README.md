@@ -18,43 +18,62 @@
   </a>
   
   
-## Stacks do dia a dia:
-  ![](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg)
-  ![](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg)
-  ![](https://www.vectorlogo.zone/logos/trello/trello-ar21.svg)
-  ![](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)
-  ![](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg)
-  ![](https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg)
-  ![](https://www.vectorlogo.zone/logos/json/json-ar21.svg)
-  ![](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg)
-  ![](https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg)
-  ![](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)
-  ![](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
-  ![](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)
-  ![](https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg)
-  ![](https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg)
-  ![](https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-ar21.svg)
-  ![](https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg)
-  ![](https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg)
-  ![](https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg)
-  
-## Outras Stacks e Ferramentas: 
-  ![](https://www.vectorlogo.zone/logos/replit/replit-icon.svg)
-  ![](https://www.vectorlogo.zone/logos/pugjs/pugjs-icon.svg)
-  ![](https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg)
-  ![](https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg)
-  ![](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
-  ![](https://www.vectorlogo.zone/logos/jamstack/jamstack-icon.svg)
-  ![](https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg)
-  ![](https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg)
-  ![](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
-  ![](https://www.vectorlogo.zone/logos/devto/devto-icon.svg)
-  ![](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg)
-  ![](https://www.vectorlogo.zone/logos/auth0/auth0-icon.svg)
-  ![](https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg)
-  ![](https://www.vectorlogo.zone/logos/android/android-icon.svg)
-  ![](https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg)
-  <img src="https://cdn.svgporn.com/logos/ant-design.svg" width="64" height="64">
-  <img src="https://cdn.cdnlogo.com/logos/j/20/jwt.svg" width="64" height="64">
+## Skills:
 
-Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
+### Languages
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+### Mobile
+
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
+![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
+
+### Web
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+
+### Server
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Hosting/SaaS
+
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+
+### CI
+
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Design
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+### Tools
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
